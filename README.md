@@ -6,8 +6,12 @@
 ---
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=wakuwakup&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakuwakup&layout=compact" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=wakuwakup&count_private=true&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakuwakup&layout=compact" />
+  </a?
 </div>
 
 ---
