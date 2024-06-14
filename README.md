@@ -1,4 +1,4 @@
-## I'm WakuwakuP
+## I'm Wakuwaku
 
 https://www.miyulab.dev
 
