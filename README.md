@@ -1,8 +1,6 @@
-## I'm Wakuwaku
+## I'm Naoki Fujisawa
 
 https://www.miyulab.dev
-
-
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 GitHub Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
