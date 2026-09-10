@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Naoki Fujisawa&#12398; GitHub &#32113;&#35336;, Rank: A</title>
-        <desc id="descId">&#12473;&#12479;&#12540;&#12373;&#12428;&#12383;&#25968;: 118, &#21512;&#35336;&#12467;&#12511;&#12483;&#12488;&#25968;  : 2942, &#21512;&#35336; PR: 697, &#21512;&#35336; issue: 280, &#36002;&#29486;&#12375;&#12383;&#12522;&#12509;&#12472;&#12488;&#12522; （&#26152;&#24180;）: 4</desc>
+        <title id="titleId">Naoki Fujisawa&#12398; GitHub &#32113;&#35336;, Rank: A+</title>
+        <desc id="descId">&#12473;&#12479;&#12540;&#12373;&#12428;&#12383;&#25968;: 118, &#21512;&#35336;&#12467;&#12511;&#12483;&#12488;&#25968;  : 6091, &#21512;&#35336; PR: 1467, &#21512;&#35336; issue: 740, &#36002;&#29486;&#12375;&#12383;&#12522;&#12509;&#12472;&#12488;&#12522; （&#26152;&#24180;）: 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 35.505233254450495;
+        stroke-dashoffset: 30.656046006337608;
       }
     }
   
@@ -150,7 +150,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          A
+          A+
         </text>
       
         </g>
@@ -176,7 +176,7 @@
         x="204.01"
         y="12.5"
         data-testid="commits"
-      >2.9k</text>
+      >6.1k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -187,7 +187,7 @@
         x="204.01"
         y="12.5"
         data-testid="prs"
-      >697</text>
+      >1.5k</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -198,7 +198,7 @@
         x="204.01"
         y="12.5"
         data-testid="issues"
-      >280</text>
+      >740</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -209,7 +209,7 @@
         x="204.01"
         y="12.5"
         data-testid="contribs"
-      >4</text>
+      >10</text>
     </g>
   </g>
     </svg>
