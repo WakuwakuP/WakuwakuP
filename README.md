@@ -9,12 +9,12 @@ https://www.miyulab.dev
 ---
 
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=wakuwakup&count_private=true&include_all_commits=true&locale=ja" />
+  <a href="https://github.com/stats-organization/github-readme-stats-action">
+    <img height="170" align="left" src="./profile/stats.svg" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakuwakup&layout=compact&locale=ja" />
-  </a?
+  <a href="https://github.com/stats-organization/github-readme-stats-action">
+    <img src="./profile/top-langs.svg" />
+  </a>
 </div>
 
 ---
